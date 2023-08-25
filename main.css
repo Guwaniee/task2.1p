@@ -1,0 +1,31 @@
+.background {
+    background-color: gray;
+    padding: 10px;
+}
+
+.font {
+    font-size: 14px;
+}
+
+.col-form-label {
+    font-size: 24px;
+}
+
+.btn-custom {
+    background-color: #ff9900;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.btn-custom:hover {
+    background-color: #e68900;
+}
+
+
+.btn-custom.rectangle {
+    border-radius: 0;
+    margin-left: 10px;}
